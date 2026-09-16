@@ -1,0 +1,6 @@
+{
+  "name": "Paradise Nursery",
+  "description": "Online houseplant shopping cart application with curated categories, real-time cart counter, and interactive checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
