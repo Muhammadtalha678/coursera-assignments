@@ -1,0 +1,49 @@
+Final Project: Submission and Evaluation
+
+About this assignment
+Assignment type
+Graded
+Time Limit
+Unlimited
+Estimated Time
+30 minutes
+Assignment attempts
+Unlimited
+Passing Grade
+70%
+ In this final project, you worked on a  Travel Recommendation Web Application. The objectives of this assignment are to:
+
+Ensure you can manage and share a public GitHub repository.
+Deploy a functional website using GitHub Pages.
+Showcase essential web development components such as a Home, About, and Contact page.
+Implement navigation with menu items, a search feature, and interactive buttons.
+Demonstrate search functionality by displaying results (e.g., beaches, temples, countries) with images.
+
+
+Instructions
+To complete this assignment successfully, follow these steps:
+
+Complete all the tasks from the Final Project -Travel Recommendation Web Application
+ For each task, ensure that you complete the code. Save your work. Take screenshots of the required tasks and save them in the corresponding files. 
+Submit the following URLs:
+GitHub repository URL (public repository with all your project code).
+Live website URL deployed on GitHub Pages.
+ Select 'Begin the Assignment' to get started.
+Read each question carefully and submit your response by providing: The relevant URL and screenshots from the project.
+Once you've answered all the questions, select 'Submit assignment.'
+Review the feedback provided to understand your performance and areas for improvement.
+
+
+Grading Criteria
+The Final assignment is worth 20 points and requires 70% of marks to pass:
+
+GitHub repository public URL (1 point)
+Website contains a Home page, About Us page, Contact Us page and an introduction for the Home Page(4 points)
+About Us page elements (2 points)
+Contact Us page email form (1 point)
+Navigation bar (6 points)
+Beach recommendation with two images (2 points)
+Temple recommendation with two images (2 points)
+Recommendation based on country with two images (2 points)
+Note: You need to provide the public link to your GitHub repository and the GitHub Pages link for your final project so the project can be viewed as a website. Remember to include the URL prefix of "https://" or "http://" with your website URL. Not including these prefixes will cause your website submission to break and you will need to resubmit your assignment. 
+

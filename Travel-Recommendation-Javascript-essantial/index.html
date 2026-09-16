@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Explorer - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="logo">Travel Explorer</div>
+
+    <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="contact.html">Contact Us</a>
+    </div>
+
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search beaches, temples, countries...">
+        <button onclick="searchPlaces()">Search</button>
+        <button onclick="clearSearch()">Clear</button>
+    </div>
+</nav>
+
+<section class="hero">
+    <div class="hero-content">
+        <h1>Explore the World</h1>
+        <p>
+            Discover beautiful beaches, historic temples and amazing
+            countries. Find your next dream destination with Travel Explorer.
+        </p>
+        <button onclick="showRecommendations()">Explore Recommendations</button>
+    </div>
+</section>
+
+<section class="recommendations">
+    <h2>Travel Recommendations</h2>
+
+    <div id="recommendationContainer" class="cards">
+
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Maldives Beach">
+            <h3>Maldives Beach</h3>
+            <p>Relax on beautiful white sand beaches surrounded by crystal-clear water.</p>
+        </div>
+
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1510414842594-a61c69b5ae57" alt="Bali Beach">
+            <h3>Bali Beach</h3>
+            <p>Enjoy tropical scenery, ocean views and unforgettable sunsets.</p>
+        </div>
+
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1563492065599-3520f775eeed" alt="Temple">
+            <h3>Angkor Wat</h3>
+            <p>Explore one of the world's most famous historic temple complexes.</p>
+        </div>
+
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1564507592333-c60657eea523" alt="Taj Mahal">
+            <h3>Taj Mahal</h3>
+            <p>Visit India's famous monument of love and architectural masterpiece.</p>
+        </div>
+
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1591022609356-1f0e8e2e2f7f" alt="Pakistan">
+            <h3>Pakistan</h3>
+            <p>Discover mountains, valleys, beaches and rich cultural heritage.</p>
+        </div>
+
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e" alt="Japan">
+            <h3>Japan</h3>
+            <p>Experience ancient traditions, modern cities and beautiful landscapes.</p>
+        </div>
+
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2026 Travel Explorer. All Rights Reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
