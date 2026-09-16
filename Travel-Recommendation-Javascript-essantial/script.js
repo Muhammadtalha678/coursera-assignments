@@ -26,7 +26,7 @@ const places = [
     {
         name: "Pakistan",
         type: "country",
-        image: "https://images.unsplash.com/photo-1591022609356-1f0e8e2e2f7f",
+        image: "https://images.pexels.com/photos/9487445/pexels-photo-9487445.jpeg",
         description: "Explore mountains, valleys, beaches and culture."
     },
     {
