@@ -1,0 +1,11 @@
+Getting application 'tax-calculator'...
+OK
+
+Name:         tax-calculator
+ID:           abcdef12-3456-7890-abcd-ef1234567890
+Project:      default
+Region:       us-south
+Namespace:    
+Created:      2026-09-18T19:00:00Z
+Status:       Ready
+URL:          https://tax-calculator.us-south.codeengine.appdomain.cloud

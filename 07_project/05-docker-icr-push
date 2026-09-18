@@ -1,0 +1,4 @@
+The push refers to repository [us.icr.io/my-namespace/tax-calculator]
+1a2b3c4d5e6f: Pushed 
+6f5e4d3c2b1a: Layer already exists 
+latest: digest: sha256:1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef size: 1360
